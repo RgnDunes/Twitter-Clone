@@ -8,3 +8,4 @@
 - @material-ui/core
 - @material-ui/icons
 - firebase
+- react-flip-move
